@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" width="200" alt="Yousef Tamer" />
+<img src="https://github.com/user-attachments/assets/8acde61c-3b36-4543-98bd-133d269bfe62" width="200" alt="Yousef Tamer" />
 
 # Hi, I'm Yousef Tamer 👋
 
