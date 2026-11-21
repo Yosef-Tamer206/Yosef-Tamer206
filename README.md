@@ -1,36 +1,12 @@
 <img width="1080" height="360" alt="Yousef Tamer | Front-End and Angular Developer" src="https://github.com/user-attachments/assets/f89cdab7-74bf-408b-8e74-31382e9310f5" />
 
-<div align="center">
-
-
-
-# Hi, I'm Yousef Tamer 👋
-
-### Front-End Developer | Angular Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=818CF8&center=true&vCenter=true&width=560&lines=Front-End+Developer;Angular+Developer;Crafting+Clean%2C+Scalable+%26+Modern+Web+Apps" alt="Typing SVG" />
-
-</div>
-
----
-
 ### 👨‍💻 About me
 
 - 🚀 Front-End Developer crafting clean, scalable and modern web applications
-- 🅰️ Front-End Trainee at **Route Academy**, working with HTML, CSS, JavaScript and React
+- 🅰️ Front-End development training at **Route Academy**
 - 🎓 Computer Software Engineering student at **EELU** (class of 2027)
 - 🏆 Top Performer — Front-End Web Development Track at Route Academy
 - 📍 Cairo, Egypt
-
----
-
-### 🛠️ Tech stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,git,github&theme=dark" alt="My tech stack" />
-
-</div>
 
 ---
 
@@ -43,6 +19,16 @@
 | [FirstApp](https://github.com/Yosef-Tamer206/FirstApp) | Angular practice app | TypeScript · Angular |
 | [Games Website](https://github.com/Yosef-Tamer206/Games-Website) | Games showcase website | HTML · CSS |
 | [EliteHomes](https://github.com/Yosef-Tamer206/EliteHomes---Your-Dream-Home-Awaits) | Real-estate landing page | HTML · CSS · Bootstrap |
+
+---
+
+### 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,git,github&theme=dark" alt="My tech stack" />
+
+</div>
 
 ---
 
