@@ -1,3 +1,5 @@
+<img width="1080" height="360" alt="Yousef Tamer | Front-End and Angular Developer" src="https://github.com/user-attachments/assets/f89cdab7-74bf-408b-8e74-31382e9310f5" />
+
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/8acde61c-3b36-4543-98bd-133d269bfe62" width="200" alt="Yousef Tamer" />
